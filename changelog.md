@@ -35,3 +35,7 @@ Release Date: Jul 26, 2027
 	
 - AZ: Jan 27, 2107
 	Finished first mates tasks. Created controllers for gallery and about sections
+
+-AZ: Jan 27, 2108
+	Changed the internal structure of the website (via tutorial 2 of lab 3)
+	
