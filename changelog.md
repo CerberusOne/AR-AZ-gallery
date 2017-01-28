@@ -38,4 +38,8 @@ Release Date: Jul 26, 2027
 
 -AZ: Jan 27, 2108
 	Changed the internal structure of the website (via tutorial 2 of lab 3)
+
+-AR: Jan 27, 2017
+	Added a database using phpMyAdmin.
+	Gallery now showing all pictures and homepage has added functionality 
 	
